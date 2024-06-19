@@ -142,8 +142,8 @@ The DynamoDB table is named `oliver_assessment` and contains the following attri
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/film-fetcher.git
-    cd film-fetcher
+    git clone https://github.com/huqizheng410/filmsFetcher.git
+    cd filmsFetcher
     ```
 
 2. **Install maven (Recommended)**:
